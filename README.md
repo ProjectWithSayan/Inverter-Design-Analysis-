@@ -8,3 +8,10 @@
 2. Switching Threshold of Inverter (for same mid voltage for Vin=Vout=(Vdd/2))
 3. Inverter same rise time and fall time (wpn for same rise time and fall time)
 4. Noise Margin of Inverter
+
+1. INVERTER Characteristics
+1.1 Schematic of INVERTER:
+   ![image](https://github.com/user-attachments/assets/d0a8ce0d-4a01-4a99-8040-654a0348797c)
+   
+
+   
